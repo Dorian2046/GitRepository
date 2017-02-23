@@ -1,2 +1,0 @@
-Here is a new branch which is using for testing feature branch line.
-Here is the feature branch line.
